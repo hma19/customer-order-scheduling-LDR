@@ -1,8 +1,8 @@
 # customer-order-scheduling-LDR
 
-**Executable files**
-
 This file is to provide instructions on using two new dispatching rules LDR-I.exe and LDR-II for solving customer order scheduling problem.
+
+**Executable files**
 
 For ease of using, we decode LDR in C# with .net core 2.1 and generate this executable file LDR.exe.
 
@@ -19,3 +19,7 @@ Please follow these steps to run the LDR:
 
 Test-1 and Test-2 are originally generated from http://grupo.us.es/oindustrial/en/research/results/
 Test-3 is self-generated.
+
+**Results**
+
+The best found objectives for Test-1, Test-2 and Test-3 by LDR-I, LDR-II, LDR-I-AS and LDR-II-AS along with the solutions are shown in the results.
