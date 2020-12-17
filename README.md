@@ -2,7 +2,7 @@
 
 This file is to provide instructions on using two new dispatching rules LDR-I.exe and LDR-II for solving customer order scheduling problem.
 
-**Executable files**
+**Code**
 
 For ease of using, we decode LDR in C# with .net core 2.1 and generate this executable file LDR.exe.
 
