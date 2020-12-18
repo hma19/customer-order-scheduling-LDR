@@ -1,6 +1,6 @@
 # customer-order-scheduling-LDR
 
-This file is to provide instructions on using two new dispatching rules LDR-I.exe and LDR-II for solving customer order scheduling problem.
+This repo is to provide instructions on using two new dispatching rules LDR-I.exe and LDR-II for solving customer order scheduling problem.
 
 <b>Code</b>
 
