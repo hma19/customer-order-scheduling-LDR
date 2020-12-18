@@ -12,7 +12,7 @@ Please follow these steps to run the LDR:
 2. Check the format of data file. For example, given t1_0121,<br>
 	a) The first row "2 50" defines the number of machines, number of orders respectively;<br>
 	b) The rest rows specify the job processing time on each machine for each order.<br>
-3. <b>Put the LDR.exe and the data files in the same folder.</b> 
+3. Put the LDR.exe and the data files in the same folder.
 4. Double click LDR.exe, type in the data file name in the popup console window, press enter to run. See picture Example.
 
 <b>Dataset</b><br>
