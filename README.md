@@ -2,7 +2,12 @@
 
 This repo is to provide instructions on using two new dispatching rules LDR-I.exe and LDR-II for solving customer order scheduling problem.
 
-<b>Code</b>
+<b>Source Code</b>
+
+This contains the C# source code for decoding the tree-based LDR to solve problem COS.
+
+
+<b>Executable files</b>
 
 For ease of using, we decode LDR in C# with .net core 2.1 and generate this executable file LDR-I.exe and LDR-II.exe.
 
