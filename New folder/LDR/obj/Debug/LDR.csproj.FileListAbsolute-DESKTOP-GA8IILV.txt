@@ -1,0 +1,10 @@
+D:\OneDrive - University of Tennessee\Code\LDR_C\LDR_1\LDR\LDR\obj\Debug\LDR.csproj.CoreCompileInputs.cache
+D:\OneDrive - University of Tennessee\Code\LDR_C\LDR_1\LDR\LDR\bin\Debug\LDR.exe.config
+D:\OneDrive - University of Tennessee\Code\LDR_C\LDR_1\LDR\LDR\bin\Debug\LDR.exe.manifest
+D:\OneDrive - University of Tennessee\Code\LDR_C\LDR_1\LDR\LDR\bin\Debug\LDR.application
+D:\OneDrive - University of Tennessee\Code\LDR_C\LDR_1\LDR\LDR\bin\Debug\LDR.exe
+D:\OneDrive - University of Tennessee\Code\LDR_C\LDR_1\LDR\LDR\bin\Debug\LDR.pdb
+D:\OneDrive - University of Tennessee\Code\LDR_C\LDR_1\LDR\LDR\obj\Debug\LDR.exe.manifest
+D:\OneDrive - University of Tennessee\Code\LDR_C\LDR_1\LDR\LDR\obj\Debug\LDR.application
+D:\OneDrive - University of Tennessee\Code\LDR_C\LDR_1\LDR\LDR\obj\Debug\LDR.exe
+D:\OneDrive - University of Tennessee\Code\LDR_C\LDR_1\LDR\LDR\obj\Debug\LDR.pdb

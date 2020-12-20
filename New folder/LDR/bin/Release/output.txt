@@ -1,0 +1,6 @@
+Data = t1_0121	Objective = 52312	CPU time (seconds) = 0.012
+Data = t1_0121	Objective = 52363	CPU time (seconds) = 0.006
+Data = t1_0480	Objective = 972232	CPU time (seconds) = 0.021
+Data = t1_0479	Objective = 981349	CPU time (seconds) = 0.026
+Data = t1_0478	Objective = 977982	CPU time (seconds) = 0.049
+Data = t1_0476	Objective = 979153	CPU time (seconds) = 0.051
